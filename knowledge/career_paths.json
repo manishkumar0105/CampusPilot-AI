@@ -1,0 +1,110 @@
+{
+  "Data Analyst": {
+    "Required Skills": [
+      "SQL",
+      "Python",
+      "Excel",
+      "Statistics",
+      "Data Visualization",
+      "Power BI",
+      "Tableau"
+    ],
+    "Recommended Projects": [
+      "Sales dashboard with SQL and Power BI",
+      "Student performance analysis using Python",
+      "Customer churn analysis with visualization"
+    ],
+    "Recommended Certifications": [
+      "Google Data Analytics Professional Certificate",
+      "Microsoft Power BI Data Analyst Associate",
+      "IBM Data Analyst Professional Certificate"
+    ],
+    "Learning Platforms": [
+      "Coursera",
+      "Kaggle",
+      "Microsoft Learn",
+      "DataCamp"
+    ]
+  },
+  "Software Engineer": {
+    "Required Skills": [
+      "Data Structures",
+      "Algorithms",
+      "Python",
+      "Java",
+      "JavaScript",
+      "Git",
+      "System Design Basics"
+    ],
+    "Recommended Projects": [
+      "Full-stack task management application",
+      "REST API with database integration",
+      "Portfolio website with deployed projects"
+    ],
+    "Recommended Certifications": [
+      "Meta Back-End Developer Professional Certificate",
+      "Oracle Certified Foundations Associate",
+      "GitHub Foundations"
+    ],
+    "Learning Platforms": [
+      "freeCodeCamp",
+      "LeetCode",
+      "HackerRank",
+      "Coursera"
+    ]
+  },
+  "AI Engineer": {
+    "Required Skills": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "Natural Language Processing",
+      "Vector Databases",
+      "Model Evaluation",
+      "MLOps Basics"
+    ],
+    "Recommended Projects": [
+      "Resume screening classifier",
+      "Question answering chatbot prototype",
+      "Image classification model with deployment"
+    ],
+    "Recommended Certifications": [
+      "IBM AI Engineering Professional Certificate",
+      "DeepLearning.AI Machine Learning Specialization",
+      "Microsoft Azure AI Fundamentals"
+    ],
+    "Learning Platforms": [
+      "DeepLearning.AI",
+      "Kaggle",
+      "Google Cloud Skills Boost",
+      "Coursera"
+    ]
+  },
+  "Cloud Engineer": {
+    "Required Skills": [
+      "Linux",
+      "Networking Basics",
+      "AWS",
+      "Azure",
+      "Docker",
+      "Kubernetes",
+      "CI/CD"
+    ],
+    "Recommended Projects": [
+      "Deploy a web app on cloud infrastructure",
+      "Containerized microservice with CI/CD pipeline",
+      "Serverless API with cloud database"
+    ],
+    "Recommended Certifications": [
+      "AWS Certified Cloud Practitioner",
+      "Microsoft Azure Fundamentals",
+      "Google Cloud Digital Leader"
+    ],
+    "Learning Platforms": [
+      "AWS Skill Builder",
+      "Microsoft Learn",
+      "Google Cloud Skills Boost",
+      "A Cloud Guru"
+    ]
+  }
+}
